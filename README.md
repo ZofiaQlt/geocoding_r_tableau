@@ -7,7 +7,19 @@
 The dataset comes from the San Francisco City Open Data : 
 <br>
 https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9
+<br>
+<br>
+<img width="240" alt="" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/a9d2d66f-a1be-486f-8990-5d867e4e2b8f">
+<br>
+<br>
 
+And from Nominatim API (a search engine for OpenStreetMap data): 
+<br>
+https://nominatim.openstreetmap.org/search?q=
+<br>
+<br>
+
+<img width="300" alt="Tableau Logo" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/1cf7a25a-7db8-410f-a8ad-934cf9466989">
 <br>
 <br>
 It was cleaned and processed with R and then visualized with Tableau.
@@ -15,4 +27,3 @@ It was cleaned and processed with R and then visualized with Tableau.
 <br>
 <br>
 <img width="2048" alt="" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/e11c89c7-7d64-4a77-952e-04f5c4d440d2">
-
