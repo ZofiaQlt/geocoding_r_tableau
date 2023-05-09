@@ -373,7 +373,7 @@ head(bldg_df)
 ```
 
 
-Finally lets save the new dataset containing the restaurants Geolocation (latitude, longitude).
+Finally let's save the new dataset containing the buildings geolocation (latitude, longitude).
 
 ```{r}
 write_csv(bldg_df, "src/building_geocoord.csv")
