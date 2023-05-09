@@ -13,7 +13,7 @@ https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9
 <br>
 <br>
 
-And from Nominatim API (a search engine for OpenStreetMap data): 
+The geolocation coordinates were exctracted with the help of the Nominatim API (a search engine for OpenStreetMap data): 
 <br>
 https://nominatim.openstreetmap.org/search?q=
 <br>
@@ -22,7 +22,7 @@ https://nominatim.openstreetmap.org/search?q=
 <img width="300" alt="Tableau Logo" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/1cf7a25a-7db8-410f-a8ad-934cf9466989">
 <br>
 <br>
-It was cleaned and processed with R and then visualized with Tableau.
+The data were cleaned and processed with R and then visualized with Tableau.
 <br>
 <br>
 <br>
