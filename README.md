@@ -27,3 +27,4 @@ The data were cleaned and processed with R and then visualized with Tableau.
 <br>
 <br>
 <img width="2048" alt="" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/e3508e21-9341-407b-8609-1058d34e7e31">
+
