@@ -1,4 +1,4 @@
-# Geocoding with R and Visualization with Tableau
+# Geocoding with R and visualization with Tableau
 
 <img width="221" alt="" src="https://github.com/ZofiaQlt/geocoding_r_tableau/assets/67431758/b616defa-9e52-45b4-9944-8c8d9ea8d223">
 
