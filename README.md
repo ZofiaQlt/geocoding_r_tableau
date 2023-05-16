@@ -4,7 +4,7 @@
 
 <br>
 <br>
-The dataset comes from the San Francisco City Open Data : 
+The dataset comes from the San Francisco City Open Data :
 <br>
 https://data.sfgov.org/Housing-and-Buildings/Building-Permits/i98e-djp9
 <br>
